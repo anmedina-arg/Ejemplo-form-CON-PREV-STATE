@@ -1,6 +1,6 @@
-import "./App.css";
-import Formulario from "./components/Formulario";
-import FormularioPlus from "./components/FormularioPlus";
+import './App.css';
+// import Formulario from "./components/Formulario";
+import FormularioPlus from './components/FormularioPlus';
 
 function App() {
   return (
