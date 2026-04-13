@@ -1,12 +1,12 @@
 import './App.css';
-// import Formulario from "./components/Formulario";
-import FormularioPlus from './components/FormularioPlus';
+import Formulario from './components/Formularios/Formulario';
+// import FormularioPlus from './components/FormularioPlus';
 
 function App() {
   return (
     <>
-      {/* <Formulario /> */}
-      <FormularioPlus />
+      <Formulario />
+      {/* <FormularioPlus /> */}
     </>
   );
 }
